@@ -11,6 +11,7 @@ Execution requires to simply run the main.py file in the Code the folder. Then a
   2. Move the patch around on the target image using the arrow keys.
   3. Use the A and S keyboard keys to enlarge or to shrink the size of the image.
   4. Use the R keyboard key to rotate the image counter-clockwise.
+  5. Press Q to finalise the position and orientation of the patch on the target image
  
  ## Results
  The source images used and the result generated are given below 
