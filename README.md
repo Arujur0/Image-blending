@@ -13,5 +13,14 @@ Execution requires to simply run the main.py file in the Code the folder. Then a
   4. Use the R keyboard key to rotate the image counter-clockwise.
  
  ## Results
- The source image used and the result generated are given below
-![Souce Image](https://github.com/[Arujur0]/[Image-blending]/blob/[branch]/image.jpg?raw=true)
+ The source images used and the result generated are given below 
+### Source Images
+![Boat](source1.jpg)
+
+![Moon](source2.jpg)
+
+### Output Images
+![Boat](final.jpg)
+
+![Moon](final1.jpg)
+
